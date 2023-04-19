@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(13, 13, 221);
+}
+.titulo{
+    color: black
+}
+.tela-de-fundo{ 
+    background-image: rgb(13, 13, 216);
+}
